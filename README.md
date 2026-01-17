@@ -12,13 +12,13 @@ Predict restaurant ratings using regression models and compare performance acros
 Build a content-based recommendation system using TF-IDF and cosine similarity.
 
 🔗 Repository: https://github.com/Thunhaal/Restaurant-Recommendation-System-ML  
-(or your actual Task 2 repo link)
+
 
 ## Task 3: Cuisine Classification
 Classify restaurants into cuisine categories using machine learning classification models.
 
 🔗 Repository: [https://github.com/Thunhaal/Cuisine-Classification-ML  ](https://github.com/Thunhaal/Cuisine-Classification-ML-)
-(or your actual Task 3 repo link)
+
 
 ## Tools & Technologies
 Python, Pandas, NumPy, Scikit-learn, Google Colab
