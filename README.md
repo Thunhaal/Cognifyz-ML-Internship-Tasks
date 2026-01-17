@@ -17,7 +17,7 @@ Build a content-based recommendation system using TF-IDF and cosine similarity.
 ## Task 3: Cuisine Classification
 Classify restaurants into cuisine categories using machine learning classification models.
 
-🔗 Repository: https://github.com/Thunhaal/Cuisine-Classification-ML  
+🔗 Repository: [https://github.com/Thunhaal/Cuisine-Classification-ML  ](https://github.com/Thunhaal/Cuisine-Classification-ML-)
 (or your actual Task 3 repo link)
 
 ## Tools & Technologies
